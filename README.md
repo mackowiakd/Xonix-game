@@ -19,12 +19,9 @@ A classic retro arcade game clone written purely in **C++** using the **SFML** (
 ## 📸 Screenshots
 <img width="830" height="627" alt="image" src="https://github.com/user-attachments/assets/5daf8c6a-33ac-4b6d-8630-ad25af909e2f" />
 
-<img width="825" height="617" alt="image" src="https://github.com/user-attachments/assets/09c35fc8-7822-4505-9ff7-3f352623f329" />
-
-
-- **Figure 2: Gameplay.** Capturing territory while avoiding enemies.
- <img width="818" height="615" alt="image" src="https://github.com/user-attachments/assets/d39d9503-bb5e-47a3-abd6-e9f703da6f85" />
-- **Figure 3: Game State.** Handling win/loss conditions and rendering custom fonts.
+<img width="825" height="617" alt="image" src="https://github.com/user-attachments/assets/09c35fc8-7822-4505-9ff7-3f352623f329" />- **Figure 2: Gameplay.** Capturing territory while avoiding enemies.
+  
+ <img width="818" height="615" alt="image" src="https://github.com/user-attachments/assets/d39d9503-bb5e-47a3-abd6-e9f703da6f85" />- **Figure 3: Game State.** Handling win/loss conditions and rendering custom fonts.
 
 ## 🚀 How to Play
 You don't need to build the project to play! 
