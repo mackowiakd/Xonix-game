@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{E4C1A50C-D0CA-4271-A454-B11AEADBC685}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XonixGame", "XonixGame\XonixGame.vcxproj", "{E4C1A50C-D0CA-4271-A454-B11AEADBC685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
